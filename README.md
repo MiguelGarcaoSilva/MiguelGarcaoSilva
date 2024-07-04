@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 <img src="https://github.com/MiguelGarcaoSilva/miguelgarcaosilva/blob/main/header.png" alt="readme banner">
+-->
 
 ---
 
